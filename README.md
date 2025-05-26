@@ -55,11 +55,9 @@ Se evaluaron ambos modelos con métricas de desempeño y se compararon sus resul
 
 Telco_churn/
 ├── data/ # Datos sin procesar o preprocesados
-├── notebooks/
+    └── Telco_customer_churn.xlsx # DataSet para el Proyecto
 │ └── Telco23.ipynb # Notebook principal del proyecto
-├── src/ # Código fuente (si se estructura en scripts)
 ├── README.md # Este archivo
-├── requirements.txt # Paquetes necesarios (opcional)
 └── .gitignore # Archivos y carpetas ignoradas por git
 
 
